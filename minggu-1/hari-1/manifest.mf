@@ -1,0 +1,2 @@
+manifest-version: 1.0
+Main-Class: latihan1.java
